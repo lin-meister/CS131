@@ -1,2 +1,2 @@
 # CS131
-Implementations of projects from CS 131 at UCLA (Eggert).
+Implementations of projects from CS 131: Programming Languages at UCLA (Eggert).
